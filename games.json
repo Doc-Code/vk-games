@@ -1,54 +1,94 @@
 {
   "games": [
     {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
+      "icon": {
+        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1.png",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "name": "game1",
+      "slogan": "game1 slogan",
+      "link": {
+        "vk": "https://google.com",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "popular": true,
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
     },
     {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
+      "icon": {
+        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game2.png",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "name": "game2",
+      "slogan": "game2 slogan",
+      "link": {
+        "vk": "https://google.com",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "popular": false,
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
     },
     {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
+      "icon": {
+        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game3.png",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "name": "game3",
+      "slogan": "game3 slogan",
+      "link": {
+        "vk": "https://google.com",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "popular": false,
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
     },
     {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
+      "icon": {
+        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game4.png",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "name": "game4",
+      "slogan": "game4 slogan",
+      "link": {
+        "vk": "https://google.com",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "popular": false,
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
     },
     {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/5I-_xel1358.jpg",
-      "name": "Animal crush",
-      "link": "https://google.com"
+      "icon": {
+        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game5.png",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "name": "game5",
+      "slogan": "game5 slogan",
+      "link": {
+        "vk": "https://google.com",
+        "fb": "https://google.com",
+        "ok": "https://google.com",
+        "ya": "https://google.com"
+      },
+      "popular": false,
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
     }
   ]
 }
