@@ -1,94 +1,460 @@
 {
   "games": [
     {
-      "icon": {
-        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1.png",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/animals_crush.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/animals_crush.png",
+      "name": "Animals Crush",
+      "slogan": "Соединяй забавных зверюшек!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "name": "game1",
-      "slogan": "game1 slogan",
       "link": {
-        "vk": "https://google.com",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+        "vk": "https://vk.com/app7600901",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "popular": true,
-      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
+      "popular": false
     },
     {
-      "icon": {
-        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game2.png",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/bird_spike.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/bird_spike.png",
+      "name": "Птичка и шипы",
+      "slogan": "Защити птичку от шипов!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "name": "game2",
-      "slogan": "game2 slogan",
       "link": {
-        "vk": "https://google.com",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+        "vk": "https://vk.com/app7788541",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "popular": false,
-      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
+      "popular": false
     },
     {
-      "icon": {
-        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game3.png",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/bowmastery.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/bowmastery.png",
+      "name": "Стрелок против зомби",
+      "slogan": "Стань легендарным лучником!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "name": "game3",
-      "slogan": "game3 slogan",
       "link": {
-        "vk": "https://google.com",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+        "vk": "https://vk.com/app7701106",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "popular": false,
-      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
+      "popular": false
     },
     {
-      "icon": {
-        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game4.png",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/caveman.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/caveman.png",
+      "name": "Попрыгунчик",
+      "slogan": "Стань лучшим из лучших!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "name": "game4",
-      "slogan": "game4 slogan",
       "link": {
-        "vk": "https://google.com",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+        "vk": "https://vk.com/app7733843",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "popular": false,
-      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
+      "popular": false
     },
     {
-      "icon": {
-        "vk": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game5.png",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/dodging_ball.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/dodging_ball.png",
+      "name": "Уклонение шарика",
+      "slogan": "Не позволяй шарику упасть!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "name": "game5",
-      "slogan": "game5 slogan",
       "link": {
-        "vk": "https://google.com",
-        "fb": "https://google.com",
-        "ok": "https://google.com",
-        "ya": "https://google.com"
+        "vk": "https://vk.com/app7788523",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
       },
-      "popular": false,
-      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/game1_banner.png"
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/flap_cat.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/flap_cat.png",
+      "name": "Flap cat",
+      "slogan": "Какой у тебя рекорд?",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7733630",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/Flight_Bird_vk.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/Flight_Bird_vk.png",
+      "name": "Летающая птичка",
+      "slogan": "Как далеко птичка долетит?!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7733492",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/freaky_math.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/freaky_math.png",
+      "name": "Причудливая математика",
+      "slogan": "Реши все уравнения!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7733675",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/gunmach.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/gunmach.png",
+      "name": "Gunmach",
+      "slogan": "А сможешь ли ты выжить?",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7601926",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/jewel_match.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/jewel_match.png",
+      "name": "Три алмаза",
+      "slogan": "Набери как можно больше очков!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7620048",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/jump_minimal.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/jump_minimal.png",
+      "name": "Геймпад прыжок",
+      "slogan": "Допрыгни дальше всех!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7788526",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/knight_shot.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/knight_shot.png",
+      "name": "Меткий рыцарь",
+      "slogan": "Станьте метким рыцарем!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7615159",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/Line_side.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/Line_side.png",
+      "name": "Полоса препятствий",
+      "slogan": "Проверь свою реакцию!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7788527",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/match4.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/match4.png",
+      "name": "4 в ряд",
+      "slogan": "Получи максимальную цифру!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7605707",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/mr_bullet.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/mr_bullet.png",
+      "name": "Mr Bullet",
+      "slogan": "Стань легендарным шпионом!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7599951",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": true
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/neon_bricks.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/neon_bricks.png",
+      "name": "Неоновые кирпичи",
+      "slogan": "Проходи испытания и радуйся!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7619295",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/pull_him_out.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/pull_him_out.png",
+      "name": "Вытащи его",
+      "slogan": "Помоги охотнику найти сокровища!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7617135",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": true
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/slingshot.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/slingshot.png",
+      "name": "Рогатка против Блоков",
+      "slogan": "Запускайте мячи в блоки!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7733650",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/spider_run.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/spider_run.png",
+      "name": "Паучки",
+      "slogan": "Проведи паучка по опасностям...",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7733778",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/sporos.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/sporos.png",
+      "name": "Sporos",
+      "slogan": "Распространи свой вирус!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7619047",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/square_and_balls.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/square_and_balls.png",
+      "name": "Квадрат и шарики",
+      "slogan": "Лови цветные шарики!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7788525",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/trezeBoost.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/trezeBoost.png",
+      "name": "Прыгающий квадратик",
+      "slogan": "Поднимись как можно выше!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7733754",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/two_tiles.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/two_tiles.png",
+      "name": "Две плитки",
+      "slogan": "Решайте интересные головоломки!",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7604447",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": false
+    },
+    {
+      "banner": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/banners/zig_zag.png",
+      "icon": "https://raw.githubusercontent.com/Doc-Code/vk-games/main/icons/zig_zag.png",
+      "name": "Zig Zag",
+      "slogan": "Сделай как можно больше зигзагов",
+      "group": {
+        "vk": "https://vk.com/gamepadbot",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "link": {
+        "vk": "https://vk.com/app7619340",
+        "fb": "link",
+        "ok": "link",
+        "ya": "link"
+      },
+      "popular": true
     }
   ]
 }
